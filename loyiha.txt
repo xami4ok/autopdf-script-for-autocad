@@ -1,0 +1,2 @@
+# Loyiha Pro: one PC per line: code1 code2 last-paid-day(YYYY-MM-DD) name
+56678 49661 2099-12-31 Xamidjon
